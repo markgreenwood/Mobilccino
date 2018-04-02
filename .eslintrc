@@ -1,0 +1,14 @@
+{
+  "extends": "airbnb-base",
+  "root": true,
+  "rules": {
+    "comma-dangle": 0,
+    "arrow-body-style": [2, "as-needed"],
+    "no-param-reassign": 0,
+    "no-underscore-dangle": 0
+  },
+  "env": {
+    "node": true,
+    "mocha": true
+  }
+}
